@@ -44,6 +44,18 @@
 
 ---
 
+### 📚 Livros em Estudo no Momento
+
+- **[Econometric Theory and Methods: International Edition](https://www.amazon.com/Econometric-Theory-Methods-International-MacKinnon/dp/0195391055)**  
+  Autores: Russell Davidson, James G. MacKinnon  
+  Um livro fundamental para aprofundar os conhecimentos em econometria, abordando desde os conceitos teóricos até as técnicas mais avançadas de estimação e testes econométricos. Estou aplicando o conteúdo do livro em exemplos práticos e projetos relacionados à econometria.
+
+- **[Using R for Time Series Analysis: A Little Book](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)**  
+  Um guia prático para análise de séries temporais utilizando R. O livro fornece uma introdução clara aos conceitos de séries temporais e à implementação de métodos em R.  
+  *Estou traduzindo e adaptando exemplos para melhorar minha compreensão e aplicação do conteúdo.*
+
+---
+
 ## 📫 **Onde me Encontrar?**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-marcato-goulart/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dataexpert0/)
