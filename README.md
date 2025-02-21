@@ -28,7 +28,7 @@
 - 📈 Aprofundando conhecimentos em **Power BI e Análise de Dados**
 - 🔍 Explorando **Econometria e Estatística**
 - 🏆 Buscando certificações como a **PL-300 (Power BI) e DP-600 (Azure Data Analytics)**
-- 📖 Sempre estudando Matemática, Programação e Ciência de Dados
+- 📖 Sempre estudando Matemática, Estatística, Programação e Ciência de Dados
 
 ---
 
