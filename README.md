@@ -55,6 +55,8 @@
   Um guia prático para análise de séries temporais utilizando R. O livro fornece uma introdução clara aos conceitos de séries temporais e à implementação de métodos em R.  
   *Estou traduzindo e realizando resumos por mim mesmo e adaptando exemplos para melhorar minha compreensão e aplicação do conteúdo.*
 
+- **[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)**  
+
 ---
 
 ## 📫 **Onde me Encontrar?**
