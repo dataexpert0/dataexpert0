@@ -59,9 +59,4 @@ Machine learning, statistics, and time series before moving into systems & secur
 
 ---
 
-## 🌐 Find Me Here
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dataexpert0/)
-
----
-
 💡 *"Build, break, learn — and build again."*
