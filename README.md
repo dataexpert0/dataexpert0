@@ -1,67 +1,73 @@
-### 👋 Olá! Eu sou o Gustavo!
+### 👋 Hey! I'm Gustavo
 
-🎓 **Apaixonado por Matemática, Dados e Tecnologia**  
-🚀 **Atualmente estudando Ciência de Dados, Econometria e BI**  
-📊 **Focado em Power BI, R, Python e Banco de Dados**  
+🛠️ **Rust Developer & Cybersecurity Enthusiast**  
+🎓 **Student in Exact Sciences, transitioning into Computer Science**  
+🔒 **Focused on Systems Programming, Security, and High-Performance Software**  
 
 ---
 
-## 📌 **Minhas Tecnologias e Ferramentas**
+## 🚀 Tech Stack & Tools
 
-### 💻 Linguagens de Programação:
+### 💻 Programming Languages  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white)
 
-### 📊 Business Intelligence:
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🛠️ Ferramentas & Banco de Dados:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🔐 Cybersecurity & Systems  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🚀 **O Que Estou Trabalhando no Momento?**
-- 📈 Aprofundando conhecimentos em **Power BI e Análise de Dados**
-- 🔍 Explorando **Econometria e Estatística**
-- 🏆 Buscando certificações como a **PL-300 (Power BI) e DP-600 (Azure Data Analytics)**
-- 📖 Sempre estudando Matemática, Estatística, Programação e Ciência de Dados
+### 📊 Data & Engineering Background  
+![Python](https://img.shields.io/badge/Python_ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📂 **Projetos em Destaque**
+## 🔍 What I'm Working On
 
-🔹 [**Análise de Dados com R e Python**](https://github.com/dataexpert0/Data-Analysis-Study) - Um repositório com projetos referentes a análise exploratória de dados com modelos de regressão, ML, deep learning, séries temporais, entre outros
+- 🦀 **Rust projects** focused on CLI tools, system utilities, and security tooling  
+- 🔒 Learning **secure coding**, system architecture, and vulnerability analysis  
+- 🧠 Exploring **Assembly** to deepen low-level understanding (x86_64 & ARM)  
+- 📘 Preparing for transition into **Computer Science**  
+- ⚙️ Studying algorithms, data structures, operating systems and Linux internals  
 
 ---
 
-## 📊 **Minhas Estatísticas no GitHub**
+## 📂 Featured Projects
+
+🔹 **Rust Security Tools (in progress)**  
+Utilities built with memory-safe Rust for automation and system introspection.
+
+🔹 **Systems Programming Experiments**  
+Low-level projects exploring OS concepts, threads, filesystems, and performance.
+
+🔹 **Legacy Data Analysis Projects (Python)**  
+Machine learning, statistics, and time series before moving into systems & security.
+
+---
+
+## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dataexpert0&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dataexpert0&layout=compact&theme=radical)
 
 ---
 
-### 📚 Livros em Estudo no Momento
+## 📚 What I'm Studying Right Now
 
-- **[Econometric Theory and Methods: International Edition](https://www.amazon.com/Econometric-Theory-Methods-International-MacKinnon/dp/0195391055)**  
-  Autores: Russell Davidson, James G. MacKinnon  
-  Um livro fundamental para aprofundar os conhecimentos em econometria, abordando desde os conceitos teóricos até as técnicas mais avançadas de estimação e testes econométricos. Estou aplicando o conteúdo do livro em exemplos práticos e projetos relacionados à econometria.
-  *Estou traduzindo e realizando resumos por mim mesmo e adaptando exemplos para melhorar minha compreensão e aplicação do conteúdo.*
-
-- **[Using R for Time Series Analysis: A Little Book](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)**  
-  Um guia prático para análise de séries temporais utilizando R. O livro fornece uma introdução clara aos conceitos de séries temporais e à implementação de métodos em R.  
-  *Estou traduzindo e realizando resumos por mim mesmo e adaptando exemplos para melhorar minha compreensão e aplicação do conteúdo.*
-
-- **[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)**  
+- **The Rust Programming Language & Rustonomicon**  
+- **Assembly (x86_64)** & low-level memory models  
+- **Operating Systems & Linux internals**  
+- **Secure coding, threat modeling & exploit basics**  
+- **Data Structures and Algorithm optimization**  
 
 ---
 
-## 📫 **Onde me Encontrar?**
+## 🌐 Find Me Here
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dataexpert0/)
 
 ---
 
-💡 *"Aprender é um processo contínuo. Explore, desafie-se e evolua!"* 🚀
+💡 *"Build, break, learn — and build again."*
