@@ -56,51 +56,34 @@ Currently interested in:
 
 - Systems Programming
 - Computer Networks
-- Cybersecurity
-- Formal Logic
+- Infrastructure
 - Software Engineering
 - Operating Systems
 
 ---
 
-## 🔍 What I'm Exploring
+## 🎯 Areas of Focus
 
-- 🦀 Building software and system utilities with **Rust**
-- 🐧 Exploring **Linux internals** and operating system concepts
-- 🔐 Studying **secure coding, cybersecurity, and vulnerability analysis**
-- 🧠 Learning **x86_64 Assembly** and low-level memory concepts
-- ⚙️ Improving my knowledge of **algorithms and data structures**
-- 🌱 Getting involved with **open-source development**
+Systems programming, backend development, and infrastructure, with an emphasis on **Rust, Java, Linux, and distributed systems**.
 
 ---
 
 ## 📂 Featured Projects
 
+### ⚙️ [EventFlow](https://github.com/dataexpert0/eventflow)
+
+Event-driven order management system built with **Java, Spring Boot, PostgreSQL, and RabbitMQ**, featuring microservices, transactional outbox, idempotent event processing, and automated integration testing.
+
+`Java` `Spring Boot` `RabbitMQ` `PostgreSQL` `Microservices`
+
 ### 🦀 Camel-RPC
 
-A systems-oriented project written in **Rust**, exploring RPC communication and application architecture.
+RPC communication and application architecture implemented in **Rust**, with a focus on systems programming.
 
-`Rust` `Systems Programming` `RPC`
+`Rust` `RPC` `Systems Programming`
 
----
+### 🖥️ Process Manager
 
-### ⚙️ Process Manager
+Desktop process management application built with **Rust and Tauri**.
 
-Desktop process management application developed with **Rust**.
-
-`Rust` `Tauri` `Systems`
-
----
-
-## 📚 Currently Studying
-
-- **The Rust Programming Language**
-- **Computer Systems & Operating Systems**
-- **Assembly and Low-Level Programming**
-- **Formal Logic**
-- **Computer Networks**
-- **Cybersecurity Fundamentals**
-
----
-
-💡 *"Build, break, learn — and build again."*
+`Rust` `Tauri` `Desktop`
