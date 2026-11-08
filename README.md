@@ -2,7 +2,7 @@
 
 🛠️ **Computer Science Student | Rust, Linux & Systems Programming**  
 🎓 **BSc in Computer Science @ Federal University of Juiz de Fora (UFJF)**  
-🔒 **Interested in Cybersecurity, Low-level Programming and Computer Systems**  
+🔒 **Focused on Backend Development, Infrastructure & Computer Systems**
 
 ---
 
@@ -39,7 +39,6 @@
 
 ### 📊 Data & Databases
 
-![Python](https://img.shields.io/badge/Python_ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
@@ -51,14 +50,6 @@
 
 **BSc in Computer Science**  
 2026 — 2030 *(Expected)*
-
-Currently interested in:
-
-- Systems Programming
-- Computer Networks
-- Infrastructure
-- Software Engineering
-- Operating Systems
 
 ---
 
